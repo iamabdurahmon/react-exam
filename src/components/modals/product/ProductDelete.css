@@ -1,0 +1,99 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.modal-container {
+  background: #fff;
+  width: 100%;
+  max-width: 420px;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  animation: modalPop 0.25s ease-out;
+}
+
+@keyframes modalPop {
+  from {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.modal-header {
+  padding: 24px 24px 15px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal-header h2 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2a3547;
+  margin: 0;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 22px;
+  color: #5a6a85;
+  cursor: pointer;
+  display: flex;
+}
+
+.modal-body {
+  padding: 0 24px 20px 24px;
+}
+
+.modal-body p {
+  font-size: 15px;
+  color: #5a6a85;
+  line-height: 1.4;
+  margin: 0;
+}
+
+.modal-footer {
+  padding: 10px 24px 24px 24px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 15px;
+}
+
+.btn-cancel-text {
+  background: none;
+  border: none;
+  color: #fa896b;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.btn-delete-main {
+  padding: 10px 20px;
+  background: #fa3e3e;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.btn-delete-main:hover {
+  background: #d62d2d;
+}

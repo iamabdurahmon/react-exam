@@ -1,0 +1,20 @@
+.dashboardContainer {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.bodyWrapper {
+  display: flex;
+  flex: 1;
+}
+
+.dashboardMain {
+  flex: 1;
+  margin-left: 26rem;
+  background-color: #f8fafc;
+}
+
+.contentArea {
+  margin-top: 7rem;
+}

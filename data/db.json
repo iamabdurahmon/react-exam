@@ -1,0 +1,1078 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=200&h=200&fit=crop",
+      "name": "Urban Bomber Jacket",
+      "category": "Jackets",
+      "inventory": "12 in stock",
+      "color": "Olive",
+      "price": "$89.90",
+      "rating": "4.9 (42 Votes)"
+    },
+    {
+      "id": "4",
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&w=200&h=200&fit=crop",
+      "name": "Slim Fit Denim",
+      "category": "Jeans",
+      "inventory": "56 in stock",
+      "color": "Blue",
+      "price": "$65.50",
+      "rating": "4.7 (210 Votes)"
+    },
+    {
+      "id": "5",
+      "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?q=80&w=200&h=200&fit=crop",
+      "name": "Black Minimalist Tee",
+      "category": "T-Shirts",
+      "inventory": "200 in stock",
+      "color": "Black",
+      "price": "$22.00",
+      "rating": "5.0 (312 Votes)"
+    },
+    {
+      "id": "6",
+      "image": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?q=80&w=200&h=200&fit=crop",
+      "name": "Winter Wool Coat",
+      "category": "Coats",
+      "inventory": "8 in stock",
+      "color": "Grey",
+      "price": "$149.00",
+      "rating": "4.6 (15 Votes)"
+    },
+    {
+      "id": "7",
+      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?q=80&w=200&h=200&fit=crop",
+      "name": "Checked Flannel Shirt",
+      "category": "Shirts",
+      "inventory": "34 in stock",
+      "color": "Red/Black",
+      "price": "$42.00",
+      "rating": "4.4 (76 Votes)"
+    },
+    {
+      "id": "8",
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=200&h=200&fit=crop",
+      "name": "Summer Linen Shorts",
+      "category": "Shorts",
+      "inventory": "88 in stock",
+      "color": "Beige",
+      "price": "$35.00",
+      "rating": "4.3 (54 Votes)"
+    },
+    {
+      "id": "9",
+      "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?q=80&w=200&h=200&fit=crop",
+      "name": "Sport Joggers",
+      "category": "Pants",
+      "inventory": "67 in stock",
+      "color": "Dark Grey",
+      "price": "$48.00",
+      "rating": "4.8 (92 Votes)"
+    },
+    {
+      "id": "10",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?q=80&w=200&h=200&fit=crop",
+      "name": "Cream V-Neck Sweater",
+      "category": "Sweaters",
+      "inventory": "21 in stock",
+      "color": "Cream",
+      "price": "$72.00",
+      "rating": "4.9 (28 Votes)"
+    },
+    {
+      "id": "11",
+      "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?q=80&w=200&h=200&fit=crop",
+      "name": "Graphic Print T-Shirt",
+      "category": "T-Shirts",
+      "inventory": "150 in stock",
+      "color": "Yellow",
+      "price": "$28.00",
+      "rating": "4.2 (115 Votes)"
+    },
+    {
+      "id": "12",
+      "image": "https://images.unsplash.com/photo-1594932224030-940955d21484?q=80&w=200&h=200&fit=crop",
+      "name": "Oxford Button Down",
+      "category": "Shirts",
+      "inventory": "42 in stock",
+      "color": "Light Blue",
+      "price": "$50.00",
+      "rating": "4.7 (63 Votes)"
+    },
+    {
+      "id": "13",
+      "image": "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?q=80&w=200&h=200&fit=crop",
+      "name": "Ripped Knee Jeans",
+      "category": "Jeans",
+      "inventory": "29 in stock",
+      "color": "Light Wash",
+      "price": "$78.00",
+      "rating": "4.5 (88 Votes)"
+    },
+    {
+      "id": "14",
+      "image": "https://images.unsplash.com/photo-1624371414361-e6e9eaec676a?q=80&w=200&h=200&fit=crop",
+      "name": "Suede Leather Jacket",
+      "category": "Jackets",
+      "inventory": "5 in stock",
+      "color": "Brown",
+      "price": "$199.00",
+      "rating": "5.0 (12 Votes)"
+    },
+    {
+      "id": "15",
+      "image": "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?q=80&w=200&h=200&fit=crop",
+      "name": "Puffer Down Vest",
+      "category": "Outwear",
+      "inventory": "18 in stock",
+      "color": "Orange",
+      "price": "$110.00",
+      "rating": "4.6 (44 Votes)"
+    },
+    {
+      "id": "16",
+      "image": "https://images.unsplash.com/photo-1434389677669-e08b492d109b?q=80&w=200&h=200&fit=crop",
+      "name": "Oversized Knit Cardigan",
+      "category": "Sweaters",
+      "inventory": "31 in stock",
+      "color": "Tan",
+      "price": "$64.00",
+      "rating": "4.8 (56 Votes)"
+    },
+    {
+      "id": "17",
+      "image": "https://images.unsplash.com/photo-1598033129183-c4f50c7176c8?q=80&w=200&h=200&fit=crop",
+      "name": "Cargo Utility Pants",
+      "category": "Pants",
+      "inventory": "40 in stock",
+      "color": "Khaki",
+      "price": "$52.00",
+      "rating": "4.4 (81 Votes)"
+    },
+    {
+      "id": "18",
+      "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?q=80&w=200&h=200&fit=crop",
+      "name": "Oversized Grey Hoodie",
+      "category": "Hoodies",
+      "inventory": "75 in stock",
+      "color": "Melange Grey",
+      "price": "$45.00",
+      "rating": "4.9 (140 Votes)"
+    },
+    {
+      "id": "19",
+      "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=200&h=200&fit=crop",
+      "name": "Striped Boatneck Top",
+      "category": "T-Shirts",
+      "inventory": "60 in stock",
+      "color": "Striped White",
+      "price": "$32.00",
+      "rating": "4.6 (39 Votes)"
+    },
+    {
+      "id": "20",
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?q=80&w=200&h=200&fit=crop",
+      "name": "Premium Polo Shirt",
+      "category": "Shirts",
+      "inventory": "90 in stock",
+      "color": "Teal",
+      "price": "$38.00",
+      "rating": "4.7 (102 Votes)"
+    },
+    {
+      "id": "21",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=200&h=200&fit=crop",
+      "name": "Biker Leather Jacket",
+      "category": "Jackets",
+      "inventory": "4 in stock",
+      "color": "Midnight Black",
+      "price": "$250.00",
+      "rating": "5.0 (25 Votes)"
+    },
+    {
+      "id": "22",
+      "image": "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?q=80&w=200&h=200&fit=crop",
+      "name": "Basic Crewneck Sweatshirt",
+      "category": "Sweaters",
+      "inventory": "112 in stock",
+      "color": "Forest Green",
+      "price": "$39.00",
+      "rating": "4.8 (215 Votes)"
+    },
+    {
+      "id": "23",
+      "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?q=80&w=200&h=200&fit=crop",
+      "name": "Distressed Denim Shorts",
+      "category": "Shorts",
+      "inventory": "44 in stock",
+      "color": "Light Blue",
+      "price": "$45.00",
+      "rating": "4.5 (67 Votes)"
+    },
+    {
+      "id": "24",
+      "image": "https://images.unsplash.com/photo-1620799139507-2a76f79a2f4d?q=80&w=200&h=200&fit=crop",
+      "name": "Ribbed Turtleneck",
+      "category": "Sweaters",
+      "inventory": "25 in stock",
+      "color": "Burgundy",
+      "price": "$58.00",
+      "rating": "4.9 (41 Votes)"
+    },
+    {
+      "id": "25",
+      "image": "https://images.unsplash.com/photo-1511105612320-2e62a04dd044?q=80&w=200&h=200&fit=crop",
+      "name": "Wide Leg Trousers",
+      "category": "Pants",
+      "inventory": "15 in stock",
+      "color": "Black",
+      "price": "$70.00",
+      "rating": "4.3 (22 Votes)"
+    },
+    {
+      "id": "26",
+      "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?q=80&w=200&h=200&fit=crop",
+      "name": "Straight Leg Chinos",
+      "category": "Pants",
+      "inventory": "53 in stock",
+      "color": "Navy Blue",
+      "price": "$54.00",
+      "rating": "4.6 (59 Votes)"
+    },
+    {
+      "id": "27",
+      "image": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?q=80&w=200&h=200&fit=crop",
+      "name": "Denim Trucker Jacket",
+      "category": "Jackets",
+      "inventory": "22 in stock",
+      "color": "Vintage Blue",
+      "price": "$85.00",
+      "rating": "4.8 (112 Votes)"
+    },
+    {
+      "id": "28",
+      "image": "https://images.unsplash.com/photo-1604176354204-926e737828ee?q=80&w=200&h=200&fit=crop",
+      "name": "Active Performance Tee",
+      "category": "T-Shirts",
+      "inventory": "180 in stock",
+      "color": "Neon Green",
+      "price": "$29.00",
+      "rating": "4.7 (145 Votes)"
+    },
+    {
+      "id": "29",
+      "image": "https://images.unsplash.com/photo-1506152983158-b4a74a01c721?q=80&w=200&h=200&fit=crop",
+      "name": "Western Denim Shirt",
+      "category": "Shirts",
+      "inventory": "36 in stock",
+      "color": "Acid Wash",
+      "price": "$58.00",
+      "rating": "4.4 (48 Votes)"
+    },
+    {
+      "id": "30",
+      "image": "https://images.unsplash.com/photo-1554568218-0f1715e72254?q=80&w=200&h=200&fit=crop",
+      "name": "Minimalist White Blouse",
+      "category": "Shirts",
+      "inventory": "19 in stock",
+      "color": "Off-White",
+      "price": "$45.00",
+      "rating": "4.5 (33 Votes)"
+    },
+    {
+      "id": "31",
+      "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=200&h=200&fit=crop",
+      "name": "Corduroy Button Up",
+      "category": "Shirts",
+      "inventory": "27 in stock",
+      "color": "Rust",
+      "price": "$49.00",
+      "rating": "4.7 (51 Votes)"
+    },
+    {
+      "id": "32",
+      "image": "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a55?q=80&w=200&h=200&fit=crop",
+      "name": "Cashmere Blend Scarf",
+      "category": "Accessories",
+      "inventory": "60 in stock",
+      "color": "Charcoal",
+      "price": "$38.00",
+      "rating": "4.9 (19 Votes)"
+    },
+    {
+      "id": "33",
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=200&h=200&fit=crop",
+      "name": "High Waist Skinny Jeans",
+      "category": "Jeans",
+      "inventory": "45 in stock",
+      "color": "Dark Blue",
+      "price": "$62.00",
+      "rating": "4.6 (123 Votes)"
+    },
+    {
+      "id": "34",
+      "image": "https://images.unsplash.com/photo-1544441893-675973e31985?q=80&w=200&h=200&fit=crop",
+      "name": "Wool Blend Peacoat",
+      "category": "Coats",
+      "inventory": "6 in stock",
+      "color": "Navy",
+      "price": "$175.00",
+      "rating": "4.9 (27 Votes)"
+    },
+    {
+      "id": "35",
+      "image": "https://images.unsplash.com/photo-1598554747436-c9293d6a588f?q=80&w=200&h=200&fit=crop",
+      "name": "Summer Floral Dress",
+      "category": "Dresses",
+      "inventory": "24 in stock",
+      "color": "Blue Floral",
+      "price": "$55.00",
+      "rating": "4.8 (89 Votes)"
+    },
+    {
+      "id": "36",
+      "image": "https://images.unsplash.com/photo-1583846717393-dc2412c95ed7?q=80&w=200&h=200&fit=crop",
+      "name": "Lounge Joggers Set",
+      "category": "Sets",
+      "inventory": "38 in stock",
+      "color": "Pastel Pink",
+      "price": "$68.00",
+      "rating": "4.7 (65 Votes)"
+    },
+    {
+      "id": "37",
+      "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?q=80&w=200&h=200&fit=crop",
+      "name": "Silk Slip Dress",
+      "category": "Dresses",
+      "inventory": "12 in stock",
+      "color": "Champagne",
+      "price": "$120.00",
+      "rating": "5.0 (40 Votes)"
+    },
+    {
+      "id": "38",
+      "image": "https://images.unsplash.com/photo-1580657018990-bc5f82494d65?q=80&w=200&h=200&fit=crop",
+      "name": "Windbreaker Anorak",
+      "category": "Jackets",
+      "inventory": "55 in stock",
+      "color": "Cyan",
+      "price": "$74.00",
+      "rating": "4.5 (31 Votes)"
+    },
+    {
+      "id": "39",
+      "image": "https://images.unsplash.com/photo-1602451365445-5601955b2075?q=80&w=200&h=200&fit=crop",
+      "name": "Argyle Knit Vest",
+      "category": "Sweaters",
+      "inventory": "17 in stock",
+      "color": "Multicolor",
+      "price": "$45.00",
+      "rating": "4.2 (18 Votes)"
+    },
+    {
+      "id": "40",
+      "image": "https://images.unsplash.com/photo-1614676471928-2ed0ad1061a4?q=80&w=200&h=200&fit=crop",
+      "name": "Fleece Zip-Up",
+      "category": "Outwear",
+      "inventory": "43 in stock",
+      "color": "Teal Green",
+      "price": "$56.00",
+      "rating": "4.7 (77 Votes)"
+    },
+    {
+      "id": "41",
+      "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?q=80&w=200&h=200&fit=crop",
+      "name": "Canvas Chino Shorts",
+      "category": "Shorts",
+      "inventory": "95 in stock",
+      "color": "Grey",
+      "price": "$30.00",
+      "rating": "4.5 (53 Votes)"
+    },
+    {
+      "id": "42",
+      "image": "https://images.unsplash.com/photo-1582533561751-ef6f6ab93a2e?q=80&w=200&h=200&fit=crop",
+      "name": "Leather Chelsea Boots",
+      "category": "Footwear",
+      "inventory": "14 in stock",
+      "color": "Chestnut",
+      "price": "$135.00",
+      "rating": "4.9 (105 Votes)"
+    },
+    {
+      "id": "43",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=200&h=200&fit=crop",
+      "name": "Red Running Shoes",
+      "category": "Footwear",
+      "inventory": "60 in stock",
+      "color": "Red",
+      "price": "$120.00",
+      "rating": "4.8 (432 Votes)"
+    },
+    {
+      "id": "44",
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=200&h=200&fit=crop",
+      "name": "Grey Knit Sneakers",
+      "category": "Footwear",
+      "inventory": "85 in stock",
+      "color": "Heather Grey",
+      "price": "$95.00",
+      "rating": "4.7 (211 Votes)"
+    },
+    {
+      "id": "45",
+      "image": "https://images.unsplash.com/photo-1520006403909-838d6b92c22e?q=80&w=200&h=200&fit=crop",
+      "name": "Formal Black Slacks",
+      "category": "Pants",
+      "inventory": "25 in stock",
+      "color": "Pure Black",
+      "price": "$85.00",
+      "rating": "4.6 (45 Votes)"
+    },
+    {
+      "id": "46",
+      "image": "https://images.unsplash.com/photo-1621072156002-e2fcc103e81e?q=80&w=200&h=200&fit=crop",
+      "name": "Velvet Evening Blazer",
+      "category": "Jackets",
+      "inventory": "3 in stock",
+      "color": "Deep Purple",
+      "price": "$210.00",
+      "rating": "5.0 (14 Votes)"
+    },
+    {
+      "id": "47",
+      "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?q=80&w=200&h=200&fit=crop",
+      "name": "Thermal Baselayer",
+      "category": "Active",
+      "inventory": "110 in stock",
+      "color": "Charcoal",
+      "price": "$45.00",
+      "rating": "4.8 (89 Votes)"
+    },
+    {
+      "id": "48",
+      "image": "https://images.unsplash.com/photo-1603252109303-2751441dd15e?q=80&w=200&h=200&fit=crop",
+      "name": "Linen Long Sleeve",
+      "category": "Shirts",
+      "inventory": "32 in stock",
+      "color": "Sky Blue",
+      "price": "$58.00",
+      "rating": "4.5 (34 Votes)"
+    },
+    {
+      "id": "49",
+      "image": "https://images.unsplash.com/photo-1596755094514-f87034a2612d?q=80&w=200&h=200&fit=crop",
+      "name": "Patterned Summer Shirt",
+      "category": "Shirts",
+      "inventory": "46 in stock",
+      "color": "Yellow Print",
+      "price": "$38.00",
+      "rating": "4.3 (41 Votes)"
+    },
+    {
+      "id": "50",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?q=80&w=200&h=200&fit=crop",
+      "name": "Merino Wool Jumper",
+      "category": "Sweaters",
+      "inventory": "14 in stock",
+      "color": "Oatmeal",
+      "price": "$95.00",
+      "rating": "4.9 (29 Votes)"
+    },
+    {
+      "id": "51",
+      "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?q=80&w=200&h=200&fit=crop",
+      "name": "Vintage Band Tee",
+      "category": "T-Shirts",
+      "inventory": "25 in stock",
+      "color": "Washed Black",
+      "price": "$35.00",
+      "rating": "4.7 (156 Votes)"
+    },
+    {
+      "id": "52",
+      "image": "https://images.unsplash.com/photo-1560362614-89027598847b?q=80&w=200&h=200&fit=crop",
+      "name": "Tracksuit Top",
+      "category": "Active",
+      "inventory": "58 in stock",
+      "color": "Royal Blue",
+      "price": "$52.00",
+      "rating": "4.6 (68 Votes)"
+    },
+    {
+      "id": "53",
+      "image": "https://images.unsplash.com/photo-1512353087810-25dfcd100962?q=80&w=200&h=200&fit=crop",
+      "name": "Safari Cargo Shorts",
+      "category": "Shorts",
+      "inventory": "39 in stock",
+      "color": "Army Green",
+      "price": "$40.00",
+      "rating": "4.4 (55 Votes)"
+    },
+    {
+      "id": "54",
+      "image": "https://images.unsplash.com/photo-1571513722275-4b41940f54b8?q=80&w=200&h=200&fit=crop",
+      "name": "Tuxedo Shirt",
+      "category": "Shirts",
+      "inventory": "12 in stock",
+      "color": "White",
+      "price": "$65.00",
+      "rating": "4.9 (12 Votes)"
+    },
+    {
+      "id": "55",
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=200&h=200&fit=crop",
+      "name": "Designer Heels",
+      "category": "Footwear",
+      "inventory": "7 in stock",
+      "color": "Emerald",
+      "price": "$280.00",
+      "rating": "5.0 (31 Votes)"
+    },
+    {
+      "id": "56",
+      "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=200&h=200&fit=crop",
+      "name": "Chunky Sneakers",
+      "category": "Footwear",
+      "inventory": "42 in stock",
+      "color": "White/Neon",
+      "price": "$115.00",
+      "rating": "4.7 (189 Votes)"
+    },
+    {
+      "id": "57",
+      "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=200&h=200&fit=crop",
+      "name": "Classic White Shirt",
+      "category": "Shirts",
+      "inventory": "150 in stock",
+      "color": "White",
+      "price": "$45.00",
+      "rating": "4.8 (245 Votes)"
+    },
+    {
+      "id": "58",
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?q=80&w=200&h=200&fit=crop",
+      "name": "Cozy Knit Socks",
+      "category": "Accessories",
+      "inventory": "300 in stock",
+      "color": "Various",
+      "price": "$12.00",
+      "rating": "4.9 (512 Votes)"
+    },
+    {
+      "id": "59",
+      "image": "https://images.unsplash.com/photo-1539109132381-315123d51438?q=80&w=200&h=200&fit=crop",
+      "name": "Satin Midi Skirt",
+      "category": "Skirts",
+      "inventory": "22 in stock",
+      "color": "Lavender",
+      "price": "$48.00",
+      "rating": "4.6 (44 Votes)"
+    },
+    {
+      "id": "60",
+      "image": "https://images.unsplash.com/photo-1515347619252-60a4bdad858a?q=80&w=200&h=200&fit=crop",
+      "name": "Black Stiletto",
+      "category": "Footwear",
+      "inventory": "15 in stock",
+      "color": "Black",
+      "price": "$145.00",
+      "rating": "4.8 (82 Votes)"
+    },
+    {
+      "id": "61",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?q=80&w=200&h=200&fit=crop",
+      "name": "Mock Neck Sweater",
+      "category": "Sweaters",
+      "inventory": "33 in stock",
+      "color": "Silver",
+      "price": "$62.00",
+      "rating": "4.5 (21 Votes)"
+    },
+    {
+      "id": "62",
+      "image": "https://images.unsplash.com/photo-1618354691229-88d47f285158?q=80&w=200&h=200&fit=crop",
+      "name": "Pocket Square Tee",
+      "category": "T-Shirts",
+      "inventory": "88 in stock",
+      "color": "White",
+      "price": "$28.00",
+      "rating": "4.4 (55 Votes)"
+    },
+    {
+      "id": "63",
+      "image": "https://images.unsplash.com/photo-1589310249476-4214d946df2e?q=80&w=200&h=200&fit=crop",
+      "name": "Faux Fur Vest",
+      "category": "Outwear",
+      "inventory": "11 in stock",
+      "color": "White",
+      "price": "$85.00",
+      "rating": "4.2 (19 Votes)"
+    },
+    {
+      "id": "64",
+      "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=200&h=200&fit=crop",
+      "name": "Running Shorts",
+      "category": "Active",
+      "inventory": "75 in stock",
+      "color": "Black",
+      "price": "$32.00",
+      "rating": "4.8 (110 Votes)"
+    },
+    {
+      "id": "65",
+      "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?q=80&w=200&h=200&fit=crop",
+      "name": "Denim Overalls",
+      "category": "Jeans",
+      "inventory": "16 in stock",
+      "color": "Medium Wash",
+      "price": "$89.00",
+      "rating": "4.6 (43 Votes)"
+    },
+    {
+      "id": "66",
+      "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=200&h=200&fit=crop",
+      "name": "Bohemian Maxi Skirt",
+      "category": "Skirts",
+      "inventory": "28 in stock",
+      "color": "Earth Tones",
+      "price": "$64.00",
+      "rating": "4.7 (67 Votes)"
+    },
+    {
+      "id": "67",
+      "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=200&h=200&fit=crop",
+      "name": "Floral Lace Dress",
+      "category": "Dresses",
+      "inventory": "9 in stock",
+      "color": "White",
+      "price": "$150.00",
+      "rating": "4.9 (38 Votes)"
+    },
+    {
+      "id": "68",
+      "image": "https://images.unsplash.com/photo-1544022613-e87ca75a784a?q=80&w=200&h=200&fit=crop",
+      "name": "Leather Biker Pants",
+      "category": "Pants",
+      "inventory": "10 in stock",
+      "color": "Black",
+      "price": "$180.00",
+      "rating": "5.0 (21 Votes)"
+    },
+    {
+      "id": "69",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=200&h=200&fit=crop",
+      "name": "Classic Parka",
+      "category": "Coats",
+      "inventory": "12 in stock",
+      "color": "Khaki Green",
+      "price": "$135.00",
+      "rating": "4.7 (55 Votes)"
+    },
+    {
+      "id": "70",
+      "image": "https://images.unsplash.com/photo-1614676471928-2ed0ad1061a4?q=80&w=200&h=200&fit=crop",
+      "name": "Zip Hoodie",
+      "category": "Hoodies",
+      "inventory": "95 in stock",
+      "color": "Grey",
+      "price": "$48.00",
+      "rating": "4.8 (210 Votes)"
+    },
+    {
+      "id": "71",
+      "image": "https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?q=80&w=200&h=200&fit=crop",
+      "name": "Velvet Skirt",
+      "category": "Skirts",
+      "inventory": "14 in stock",
+      "color": "Forest Green",
+      "price": "$52.00",
+      "rating": "4.5 (28 Votes)"
+    },
+    {
+      "id": "72",
+      "image": "https://images.unsplash.com/photo-1520975954732-35dd2229969e?q=80&w=200&h=200&fit=crop",
+      "name": "Cable Knit Scarf",
+      "category": "Accessories",
+      "inventory": "45 in stock",
+      "color": "White",
+      "price": "$24.00",
+      "rating": "4.9 (78 Votes)"
+    },
+    {
+      "id": "73",
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=200&h=200&fit=crop",
+      "name": "Casual Loafers",
+      "category": "Footwear",
+      "inventory": "23 in stock",
+      "color": "Tan",
+      "price": "$110.00",
+      "rating": "4.6 (56 Votes)"
+    },
+    {
+      "id": "74",
+      "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?q=80&w=200&h=200&fit=crop",
+      "name": "Athletic Sneakers",
+      "category": "Footwear",
+      "inventory": "88 in stock",
+      "color": "Blue",
+      "price": "$130.00",
+      "rating": "4.7 (143 Votes)"
+    },
+    {
+      "id": "75",
+      "image": "https://images.unsplash.com/photo-1596755094514-f87034a2612d?q=80&w=200&h=200&fit=crop",
+      "name": "Patterned Shirt",
+      "category": "Shirts",
+      "inventory": "41 in stock",
+      "color": "Multicolor",
+      "price": "$42.00",
+      "rating": "4.4 (39 Votes)"
+    },
+    {
+      "id": "76",
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=200&h=200&fit=crop",
+      "name": "Summer Shorts",
+      "category": "Shorts",
+      "inventory": "112 in stock",
+      "color": "Navy",
+      "price": "$28.00",
+      "rating": "4.5 (82 Votes)"
+    },
+    {
+      "id": "77",
+      "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=200&h=200&fit=crop",
+      "name": "Corduroy Jacket",
+      "category": "Jackets",
+      "inventory": "18 in stock",
+      "color": "Brown",
+      "price": "$95.00",
+      "rating": "4.8 (44 Votes)"
+    },
+    {
+      "id": "78",
+      "image": "https://images.unsplash.com/photo-1617137968427-85924c800a22?q=80&w=200&h=200&fit=crop",
+      "name": "Formal Grey Suit",
+      "category": "Suits",
+      "inventory": "5 in stock",
+      "color": "Grey",
+      "price": "$450.00",
+      "rating": "5.0 (18 Votes)"
+    },
+    {
+      "id": "79",
+      "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=200&h=200&fit=crop",
+      "name": "Black Polo",
+      "category": "Shirts",
+      "inventory": "60 in stock",
+      "color": "Black",
+      "price": "$35.00",
+      "rating": "4.7 (95 Votes)"
+    },
+    {
+      "id": "80",
+      "image": "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?q=80&w=200&h=200&fit=crop",
+      "name": "Wool Overcoat",
+      "category": "Coats",
+      "inventory": "7 in stock",
+      "color": "Beige",
+      "price": "$220.00",
+      "rating": "4.9 (32 Votes)"
+    },
+    {
+      "id": "81",
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&w=200&h=200&fit=crop",
+      "name": "Blue Jeans",
+      "category": "Jeans",
+      "inventory": "55 in stock",
+      "color": "Indigo",
+      "price": "$55.00",
+      "rating": "4.6 (144 Votes)"
+    },
+    {
+      "id": "82",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=200&h=200&fit=crop",
+      "name": "Leather Vest",
+      "category": "Jackets",
+      "inventory": "4 in stock",
+      "color": "Black",
+      "price": "$120.00",
+      "rating": "4.3 (12 Votes)"
+    },
+    {
+      "id": "83",
+      "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?q=80&w=200&h=200&fit=crop",
+      "name": "Denim Shorts",
+      "category": "Shorts",
+      "inventory": "48 in stock",
+      "color": "Blue Wash",
+      "price": "$38.00",
+      "rating": "4.4 (55 Votes)"
+    },
+    {
+      "id": "84",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?q=80&w=200&h=200&fit=crop",
+      "name": "Turtleneck Jumper",
+      "category": "Sweaters",
+      "inventory": "20 in stock",
+      "color": "Black",
+      "price": "$65.00",
+      "rating": "4.8 (39 Votes)"
+    },
+    {
+      "id": "85",
+      "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=200&h=200&fit=crop",
+      "name": "Yellow Summer Dress",
+      "category": "Dresses",
+      "inventory": "15 in stock",
+      "color": "Yellow",
+      "price": "$78.00",
+      "rating": "4.7 (42 Votes)"
+    },
+    {
+      "id": "86",
+      "image": "https://images.unsplash.com/photo-1582719188393-bb71ca45dbb9?q=80&w=200&h=200&fit=crop",
+      "name": "Satin Blouse",
+      "category": "Shirts",
+      "inventory": "21 in stock",
+      "color": "Peach",
+      "price": "$52.00",
+      "rating": "4.5 (27 Votes)"
+    },
+    {
+      "id": "87",
+      "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?q=80&w=200&h=200&fit=crop",
+      "name": "Oversized Tee",
+      "category": "T-Shirts",
+      "inventory": "100 in stock",
+      "color": "Grey",
+      "price": "$25.00",
+      "rating": "4.6 (180 Votes)"
+    },
+    {
+      "id": "88",
+      "image": "https://images.unsplash.com/photo-1624371414361-e6e9eaec676a?q=80&w=200&h=200&fit=crop",
+      "name": "Suede Jacket",
+      "category": "Jackets",
+      "inventory": "6 in stock",
+      "color": "Tan",
+      "price": "$180.00",
+      "rating": "4.9 (15 Votes)"
+    },
+    {
+      "id": "89",
+      "image": "https://images.unsplash.com/photo-1506152983158-b4a74a01c721?q=80&w=200&h=200&fit=crop",
+      "name": "Denim Shirt",
+      "category": "Shirts",
+      "inventory": "33 in stock",
+      "color": "Blue",
+      "price": "$45.00",
+      "rating": "4.4 (51 Votes)"
+    },
+    {
+      "id": "90",
+      "image": "https://images.unsplash.com/photo-1598033129183-c4f50c7176c8?q=80&w=200&h=200&fit=crop",
+      "name": "Utility Pants",
+      "category": "Pants",
+      "inventory": "42 in stock",
+      "color": "Olive",
+      "price": "$58.00",
+      "rating": "4.7 (63 Votes)"
+    },
+    {
+      "id": "91",
+      "image": "https://images.unsplash.com/photo-1614676471928-2ed0ad1061a4?q=80&w=200&h=200&fit=crop",
+      "name": "Fleece Hoodie",
+      "category": "Hoodies",
+      "inventory": "50 in stock",
+      "color": "Navy",
+      "price": "$62.00",
+      "rating": "4.8 (88 Votes)"
+    },
+    {
+      "id": "92",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=200&h=200&fit=crop",
+      "name": "White Tee",
+      "category": "T-Shirts",
+      "inventory": "200 in stock",
+      "color": "White",
+      "price": "$20.00",
+      "rating": "4.9 (450 Votes)"
+    },
+    {
+      "id": "93",
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=200&h=200&fit=crop",
+      "name": "Harrington Jacket",
+      "category": "Jackets",
+      "inventory": "15 in stock",
+      "color": "Black",
+      "price": "$85.00",
+      "rating": "4.7 (34 Votes)"
+    },
+    {
+      "id": "94",
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&w=200&h=200&fit=crop",
+      "name": "Skinny Jeans",
+      "category": "Jeans",
+      "inventory": "45 in stock",
+      "color": "Blue",
+      "price": "$68.00",
+      "rating": "4.5 (92 Votes)"
+    },
+    {
+      "id": "95",
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=200&h=200&fit=crop",
+      "name": "Chino Shorts",
+      "category": "Shorts",
+      "inventory": "80 in stock",
+      "color": "Tan",
+      "price": "$32.00",
+      "rating": "4.4 (55 Votes)"
+    },
+    {
+      "id": "96",
+      "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?q=80&w=200&h=200&fit=crop",
+      "name": "Grey Sweatshirt",
+      "category": "Sweaters",
+      "inventory": "120 in stock",
+      "color": "Grey",
+      "price": "$40.00",
+      "rating": "4.8 (115 Votes)"
+    },
+    {
+      "id": "97",
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?q=80&w=200&h=200&fit=crop",
+      "name": "Polo Shirt",
+      "category": "Shirts",
+      "inventory": "75 in stock",
+      "color": "Red",
+      "price": "$35.00",
+      "rating": "4.6 (88 Votes)"
+    },
+    {
+      "id": "98",
+      "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=200&h=200&fit=crop",
+      "name": "Flannel Shirt",
+      "category": "Shirts",
+      "inventory": "40 in stock",
+      "color": "Green Check",
+      "price": "$48.00",
+      "rating": "4.7 (62 Votes)"
+    },
+    {
+      "id": "99",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?q=80&w=200&h=200&fit=crop",
+      "name": "V-Neck Sweater",
+      "category": "Sweaters",
+      "inventory": "25 in stock",
+      "color": "Navy",
+      "price": "$70.00",
+      "rating": "4.9 (41 Votes)"
+    },
+    {
+      "id": "100",
+      "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?q=80&w=200&h=200&fit=crop",
+      "name": "Basic Tee",
+      "category": "T-Shirts",
+      "inventory": "150 in stock",
+      "color": "Black",
+      "price": "$18.00",
+      "rating": "5.0 (215 Votes)"
+    },
+    {
+      "id": "98c7",
+      "name": "Something",
+      "category": "Men",
+      "image": "https://i.pinimg.com/564x/85/22/34/8522346c05525356198706df30c7ebe0.jpg",
+      "inventory": "10 in stock",
+      "color": "Black",
+      "price": "18",
+      "rating": "5.0 (0 Votes)"
+    },
+    {
+      "id": "a43f",
+      "name": "T-shirt",
+      "category": "T-Shirt",
+      "image": "https://i.pinimg.com/564x/85/22/34/8522346c05525356198706df30c7ebe0.jpg",
+      "inventory": "10 in stock",
+      "color": "Black",
+      "price": "99",
+      "rating": "5.0 (0 Votes)"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "image": "https://images.pexels.com/photos/4066290/pexels-photo-4066290.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "title": "Men Clothes",
+      "items_count": "24 items"
+    },
+    {
+      "id": "2",
+      "image": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "title": "Women Fashion",
+      "items_count": "42 items"
+    },
+    {
+      "id": "3",
+      "image": "https://images.pexels.com/photos/1619697/pexels-photo-1619697.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "title": "Winter Wear",
+      "items_count": "18 items"
+    },
+    {
+      "id": "4",
+      "image": "https://images.pexels.com/photos/3758105/pexels-photo-3758105.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "title": "Formal Suits",
+      "items_count": "12 items"
+    },
+    {
+      "id": "5",
+      "image": "https://images.pexels.com/photos/1036622/pexels-photo-1036622.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "title": "Casual Style",
+      "items_count": "35 items"
+    },
+    {
+      "id": "6",
+      "image": "https://images.pexels.com/photos/3772511/pexels-photo-3772511.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "title": "Sportswear",
+      "items_count": "29 items"
+    },
+    {
+      "id": "7",
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "title": "Active Sneakers",
+      "items_count": "15 items"
+    },
+    {
+      "id": "8",
+      "image": "https://images.pexels.com/photos/6347853/pexels-photo-6347853.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "title": "Streetwear",
+      "items_count": "22 items"
+    },
+    {
+      "id": "9",
+      "image": "https://images.pexels.com/photos/2065195/pexels-photo-2065195.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "title": "Summer Dresses",
+      "items_count": "31 items"
+    },
+    {
+      "id": 1776758272129,
+      "image": "https://cdn.pixabay.com/photo/2024/11/08/05/28/man-9182458_1280.jpg",
+      "title": "Back bro",
+      "items_count": "12"
+    },
+    {
+      "id": 1776758451321,
+      "image": "https://l450v.alamy.com/450v/2jg2e7p/1000-stylish-boy-pictures-download-free-stock-images-on-alamy-2jg2e7p.jpg",
+      "title": "boy",
+      "items_count": "12"
+    },
+    {
+      "id": 1776758491690,
+      "image": "https://l450v.alamy.com/450v/2jg2e7p/1000-stylish-boy-pictures-download-free-stock-images-on-alamy-2jg2e7p.jpg",
+      "title": "fsfjskljf",
+      "items_count": "12"
+    }
+  ]
+}
